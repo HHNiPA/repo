@@ -261,17 +261,20 @@ Version: 0.2.0
 Section: Fi fai
 Maintainer: HHNiOS
 Installed-Size: 1016
-Depends: firmware (>= 8.0)
+Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.freefireigg_0.2.0_iphoneos-arm.deb
-Size: 373564
-MD5sum: f880cfa621d3182560c3544a4ec07754
-SHA1: 01263298ae8ae1620547cd321a0271b9ad876eae
-SHA256: d1de73f6ec87d679caeeca4c7d9ddcb4d2238d746af32d1e371a1df660b4aa74
-SHA512: cb941df1030a9ba34d48b04029a4ff0fcd346947696690c14a65c973e91e84501d029bffdc152911046d90daa02b6c7c6c80e3f003f21921626acd7a6e923a5b
-Homepage: Fi fai
-Depiction: Menu có thể Inject vào ipa no JB
+Size: 373486
+MD5sum: 8c65265a743ceaae2e4b8bd144757988
+SHA1: 715d74ac6d79f02059a1139dd9a62404ca3b722b
+SHA256: 53fc1dc07f4dce792e7578114d6cd72f93e1d717360511d75744c1a2d2d19752
+SHA512: 470b756a5a717c145e947ce1c41c46dfb404f66da7388ab1d8eac873391052869c9fe276cc16dab03052f3b1977bbaed1c646ebaa04e34ac039d886da11232f7
+Homepage: https://hhnios.github.io
+Description: Menu có thế Inject vào iPA
+Name: Free Fire Mod Menu iGG
 Author: HHNiOS
-Name: Fi Fai Mod Menu iGG
+Depiction: https://hhnios.github.io/info/fifai.html
+SileoDepiction: https://hhnios.github.io/info/fifai.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.freefireigg
 Architecture: iphoneos-arm

@@ -238,6 +238,25 @@ Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.freefireigg
 Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Utilities
+Maintainer: HHNiOS
+Installed-Size: 1016
+Depends: firmware (>= 8.0)
+Filename: ./DEB/com.hhnios.freefireigg_0.1.5_iphoneos-arm.deb
+Size: 373392
+MD5sum: 0129715988326215045c7afde9a52ac3
+SHA1: e4099a22c68821ed041f7ced58ee8e270e8ce2a3
+SHA256: 810c783881fa14f49aabe1f65032e5fd19d8a0648927a790ee9345a1bb3d6a73
+SHA512: 156cfe850ca031ccaad5ee1d5504508e77ce49419900c24511d364b653c2e35b6858d572b7245b619cc2c1260368719bd09ca4ae4eb622c7778161b48886b4c6
+Homepage: Fi fai
+Description: Fi fai
+Depiction: Menu có thể Inject vào ipa no JB
+Author: HHNiOS
+Name: Fi Fai Mod Menu iGG
+
+Package: com.hhnios.freefireigg
+Architecture: iphoneos-arm
 Version: 1
 Section: Utilities
 Maintainer: HHNiOS

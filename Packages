@@ -1,0 +1,581 @@
+Package: com.crazymind90.itheosmakertweak
+Architecture: iphoneos-arm
+Version: 1.5
+Priority: optional
+Section: base
+Maintainer: @CrazyMind90
+Filename: ./DEB/com.crazymind90.itheosmakertweak_1.5_iphoneos-arm.deb
+Size: 1220066
+MD5sum: 6511e39de648dba6060458b2209dafab
+SHA1: 0cb05b15660a2fa8e7d7329d0c0ff8bab99070d8
+SHA256: 04b1673f7a812df7437ceb8b6d664c98e31a3b9f5705263435d222e01e3725fc
+SHA512: 6aa896dd3e079484886290dc24f36b1eb7fb97149ee8accb4847505c63caaacd581028873014509ac52a25829c696f8907002783cb68799cbd9464cde64f4baa
+Description: An app that helps you to create and manage Theos projects
+Name: iTheosMaker
+Author: @CrazyMind90
+
+Package: com.hhnios.1998campro
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: App Pro
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.1998campro_0.0.4_iphoneos-arm.deb
+Size: 65610
+MD5sum: 833d3778824df0d7349088042a70bef1
+SHA1: e61d664039118a7c24b61f2f712ca7f09f229970
+SHA256: c48498612a4a225bea9ae746379c032ce146da8543c5dbcbd9f3dde133153d28
+SHA512: 883669b9107ab6663e48598d99def3771a3c7ed97b65e93a4543ef74f42079f7064af52f094e7346e05b95b7a8ab8d94ad51fa2c16ef83d0ba37f59afe7e0f09
+Description: 解锁所有会员功能。
+Name: 1998 Cam Pro
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/1998campro.html
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/1998camprosileo
+
+Package: com.hhnios.aim
+Architecture: iphoneos-arm
+Version: 1.2.9
+Section: Tweaks
+Maintainer: alimaulana
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe
+Filename: ./DEB/com.hhnios.aim_1.2.9_iphoneos-arm.deb
+Size: 2685472
+MD5sum: 3aacb45086f009f61d687f60d98729d2
+SHA1: b81c1912df10705b30f06ddb0d06147dcdca0b6f
+SHA256: 50ce22a237f61b014b87c698e191f0ad7cf847048e8b369919ca38efce46151e
+SHA512: 0219f50a556bbf0dea9e2a4232cd93a3bacf7a4c4ca0a8ff0a03bb9e2e6941f654e080079b52dd9ad5e9a49c7b85a06b943b8a513e676937b552fa2e2ec3e10a
+Description: Màn hình khoá kiểu iOS16
+Name: AIM VH
+Author: alimaulana
+Depiction: https://hhnios.github.io/info/aimvh.html
+SileoDepiction: https://hhnios.github.io/info/aimvh.html
+
+Package: com.hhnios.beautifulgirl
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Ảnh nền
+Maintainer: HHN iOS
+Installed-Size: 964
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.beautifulgirl_0.1.0_iphoneos-arm.deb
+Size: 10135082
+MD5sum: dda66077c89a7538ce3d88384968315d
+SHA1: e8eb3ccf08d5dec4e129f988b6ae6fcf573d0e15
+SHA256: dd7efce82ff39eebf56555ecfc882727f7a93444bcc94b4ae088d87522d2e84b
+SHA512: 822b6f08b599ff1cf29199d5ece544573a132cd3227416a296c0bfd0847e8cf11ee5030a99f1c5fb420573a42b998cdd29126c96e3719cd5e2d097f22794ee7b
+Homepage: https://hhnios.github.io
+Description: Hình Nền Girl Xinh Hoạt Hình
+Name: Cartoon Beautiful Girl Wallpaper
+Author: HHNiOS
+
+Package: com.hhnios.camscanner
+Architecture: iphoneos-arm
+Version: 6.27.6
+Section: App Pro
+Maintainer: Lailaazmi <Lailaazmi@my.com>
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.camscanner_6.27.6_iphoneos-arm.deb
+Size: 269748
+MD5sum: 77269bc9c54b6aa199be0f21cbb97b1e
+SHA1: 6e784ab2e4d716d4d5ccf84081dd8aadf7de70f3
+SHA256: 02385f28f960b99f4730eed95219ab0facffe25b51dea8173ba6b7723aa7f08b
+SHA512: 964daecba180d6964db37d3a3275fd08d4cc0e47542b6931c03bd365809dda7fa58a6a4e40722df02b12e0a5f4f13d1f64a520477500db8523d7af5832590695
+Description: 
+  • Unlocked All Features
+  • Remove Ads & Banners
+  • Premium & Vip Access
+  • Enjoy Premium Lifetime
+Name: CamScanner Pro
+Author: Lailaazmi <Lailaazmi@my.com>
+Depiction: https://lailaazmi.github.io/depic/web/com.lailaazmi.camscanner.html
+Icon: https://lailaazmi.github.io/laila/com.lailaazmi.camscanner/icon.png
+
+Package: com.hhnios.capcut
+Architecture: iphoneos-arm
+Version: 7.5.2
+Section: App Pro
+Maintainer: Lailaazmi
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.capcut_7.5.2_iphoneos-arm.deb
+Size: 236512
+MD5sum: ee292e647c9795717814e5a638d92a01
+SHA1: b7fadfff48994d241babb022428d16ad3ba71037
+SHA256: a2597cc1335ef2ab1b3738b495fb563c19aaa10c6c0f4298be17ea19944eba73
+SHA512: 93a7251d0d9444582b22e1a6af063328e76c0d41df202306a9c67c2a3560b9f84d7f331e42f29038edee929ba763e765efbfc6bf3a3ece736732af08b2cbf639
+Description: 
+  • Unlocked All Features
+  • Remove Ads & Banners
+  • Premium & Vip Access
+  • Enjoy Premium Lifetime
+Name: CapCut Pro
+Author: Lailaazmi
+Depiction: https://lailaazmi.github.io/depic/web/com.lailaazmi.capcut.html
+Icon: https://lailaazmi.github.io/laila/com.lailaazmi.capcut/icon.png
+
+Package: com.hhnios.carbridge13
+Architecture: iphoneos-arm
+Version: 2.0.10
+Section: Tweaks
+Maintainer: Wean
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay , com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./DEB/com.hhnios.carbridge13_2.0.10_iphoneos-arm.deb
+Size: 1869414
+MD5sum: 3c82126db6dce12c5289f4f48ca11a8f
+SHA1: 02db70542af1349195bd569c95d8710102d2647a
+SHA256: d8f23c19576ae2aa405326b69eb07949b88523df79907071d38384fb671280e0
+SHA512: ef9ed1d5ba77bde9431f86f032a6944801aa94371bb0a1c991adb1a4cb9d9eae9ad7c622243a3a1535aee969d5f4e5d10e7bf8912d41cb62aaf5d5f7e093a577
+Description: Trao quyền cho CarPlay trên ios.
+Name: CarBridge ios 13-15
+Depiction: https://hhnios.github.io/info/carbridge.html
+SileoDepiction: https://hhnios.github.io/info/carbridge.html
+Author: leftyfl1p
+
+Package: com.hhnios.carplay
+Architecture: iphoneos-arm
+Version: 1.0.9.5
+Section: Tweaks
+Maintainer: Wean
+Installed-Size: 5252
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ws.hbang.common
+Conflicts: com.eason.carplay, com.eason.carplay.ios11, ch.ringwald.hidsupport, com.leftyfl1p.carbridge13
+Filename: ./DEB/com.hhnios.carplay_1.0.9.5_iphoneos-arm.deb
+Size: 3315824
+MD5sum: a31114530ffad9a110f3d275b90ce82e
+SHA1: ebddf66bc579eaaeab597738bca282f5f5fcab1b
+SHA256: d9bc0f8948287b252500b2061a3ff6f5ee3f5dcd35b50289ca7e356f53b4640d
+SHA512: 92e8e2331862c5b6748061b1b2fbf00d1ec9aec280c227b096885a1ea43dfbfe2b074ad51dc3ca55a3c1fa719f0c7accee9335ad27c2e237e31fa1697f763285
+Description: Trao quyền cho CarPlay
+Depiction: https://hhnios.github.io/info/carbridge.html
+SileoDepiction: https://hhnios.github.io/info/carbridge.html
+Name: CarBridge iOS 10 - 12
+Author: leftyfl1p
+
+Package: com.hhnios.dumpdecrypter
+Architecture: iphoneos-arm
+Version: 1.3-5.1
+Section: Utilities
+Maintainer: @hhnios
+Installed-Size: 1072
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.hoangtuan.dumpdecrypter, vn.tuandb.dumpdecrypter
+Filename: ./DEB/com.hhnios.dumpdecrypter_1.3-5.1_iphoneos-arm.deb
+Size: 1310540
+MD5sum: 76ff86ca3eb443a4aa46a679d7d5751d
+SHA1: ac6ce576be9b326cbdc6460680a466f3ea10c403
+SHA256: 2c46c811c84c8ef508cc1ef8554fab85532a939e10a85019c8f9b33a876e3dc4
+SHA512: f238c53c65df88c1e3a106b978765fdae1474423f0a6310776a0b01f5616b3b5ebaddd2a511720485a8bb6605a0653f4935677f07ba1d51c9bc8b195cdac6ac3
+Description: Giải mã ứng dụng iOS
+Name: DumpDecrypter
+Author: Netskao
+
+Package: com.hhnios.dynamicpeninsula
+Architecture: iphoneos-arm
+Version: 0.6-74
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), com.hhnios.limneos
+Filename: ./DEB/com.hhnios.dynamicpeninsula_0.6-74_iphoneos-arm.deb
+Size: 513318
+MD5sum: dcdefc470a1252fb15d04a51b2cd6621
+SHA1: 7e650e4d4941c52c397f67caf5478494e97e1d56
+SHA256: af4567d935fe0f14f90b52e93c0ed9ef7e4945b5eae381c1134bcb27a63a44ba
+SHA512: d27e5e03ae6c87df1c5e613605ba3150a8b588948ee14d910b0d6707636c8b63ceefcc2f216938d5be0650e9bac363539a9f39951cd715ddffb85b8cb5b18618
+Homepage: https://hhnios.github.io/info/dynamic.html
+Description: Dynamic Island on your notch
+Tag: purpose::extension
+Name: DynamicPeninsula Crack
+Depiction: https://hhnios.github.io/info/dynamic.html
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: limneos
+MainLibMD5: 5579fa1dc758221204d501e8c3e48228
+Icon: file:///Library/PreferenceBundles/DynamicPeninsula.bundle/icon@3x.png
+
+Package: com.hhnios.fifai
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Fi fai
+Maintainer: HHNiOS
+Installed-Size: 624
+Depends: mobilesubstrate, com.hhnios.libfahmenu
+Filename: ./DEB/com.hhnios.fifai_0.1.0_iphoneos-arm.deb
+Size: 441086
+MD5sum: 74f746679d2ab6059ba13fb03149ee59
+SHA1: 00a090d97fcc0cd0acaf4bcd86cfdffa83a7896e
+SHA256: 8c72e2c90f2e64d4f6ebdff37ff50c608b17a9c4c9dbf45ab2271c8e9c9b5f5a
+SHA512: 9995058eb1f5050c6ec9cceeadabf1ee225713e7581552181f0cefedc736361f7ae231e289a887394bd996c85579ec7f8c9103eae6a26e69820a91f0ed4a5c80
+Homepage: https://hhnios.github.io
+Description: Mod Menu by HHNiOS!
+Name: Free Fire Mod Menu OB39
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/fifai.html
+SileoDepiction: https://hhnios.github.io/info/fifai.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.fifai
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Fi fai
+Maintainer: HHNiOS
+Installed-Size: 768
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.fifai_0.2.0_iphoneos-arm.deb
+Size: 441026
+MD5sum: 1ec3e784528093996277d4ed53260442
+SHA1: c551d7e1649481d3a87da9b5cda20d7920abb804
+SHA256: dcbeb03ffb3704b01eaadbfaff8d51e4697cb3d82c09887f4b173ef2b09313b9
+SHA512: a309b2a142a7a79fa883b3896d75e667a6422baaa38c87e86da92e735f21656b8ddfae2cae4d610d98ca0c0c3b56783fb9c220116380968a4f3b202cd1b9c1fe
+Homepage: https://hhnios.github.io
+Description: Mod Menu by HHNiOS!! Cus Menu by Mr.D
+Name: Free Fire Mod Menu 1.99.1
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/fifai.html
+SileoDepiction: https://hhnios.github.io/info/fifai.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.freefireigg
+Architecture: iphoneos-arm
+Version: 1
+Section: Utilities
+Maintainer: HHNiOS
+Installed-Size: 1016
+Depends: firmware (>= 8.0)
+Filename: ./DEB/com.hhnios.freefireigg_1_iphoneos-arm.deb
+Size: 475652
+MD5sum: 1e46528a9ffe32530b58444091cd8dbb
+SHA1: 8d97953b245b70d9efe052a403cf368ddc73e1b8
+SHA256: e304bed3747e4b1120afda6a6515a424a73cd0a85afade81124f36820b007e38
+SHA512: 5f74f0324b16efa4687aa8933e4f82d6619aaf2ee6d4012fa39eb3908f76bcad66a258b4e729df3f64aa9eea69e2b07ce7ad45329a36af5b98d7a40255b7cb69
+Homepage: Fi fai
+Description: Fi fai
+Depiction: Fi Fai Mod Menu iGG
+Author: HHNiOS
+Name: Fi Fai Mod Menu iGG
+
+Package: com.hhnios.gesturesi11vh
+Architecture: iphoneos-arm
+Version: 3.6.7
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./DEB/com.hhnios.gesturesi11vh_3.6.7_iphoneos-arm.deb
+Size: 48346
+MD5sum: e3f6f8388aeadd7308ce875c30a4328f
+SHA1: 37cd00e91b398440e0829879bdc4c9caed5cdb88
+SHA256: 558ead89bb14c78ec3d84ba5380a26b4ad29dddb23131547cf83f81fb9c7b82d
+SHA512: 4df7cbc770531448bd931128222a5230988e11f0806a3927a71fd8e1908d52b06fec2556aa69169a38c344e42b289f25c90c406a883d982bee7ef4a3d6142fd9
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gesturesi11Dp
+Description: iPhone 11 gestures and other options.
+Name: Gesturesi11 VH
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gesturesi11Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Hius <h.h.haiduog@gmail.com>
+
+Package: com.hhnios.iMemScan
+Architecture: iphoneos-arm
+Version: 1.2.7
+Section: Utilities
+Filename: ./DEB/com.hhnios.imemscan_1.2.7_iphoneos-arm.deb
+Size: 2511932
+MD5sum: 4162f1dfc71c1bd397b421311d3deaae
+SHA1: 38ed0f1a5fee0e2493a02265bb9e6947c283f10d
+SHA256: f73918eaabf1fac7ea9670abcda77de07e2eb5e970bfab49ba2be60aaaaf94b6
+SHA512: 2a9eb7add202892423724c4011936a6346c12e5d38b086782fad66327065215931094b20c25baf47ae445edc3d2867fa30c2f16965a1e7379a0c0621b5605b75
+Description: iMem Scan（以下简称 iMe）
+ 是一款内存基址调试工具.
+Name: iMemScan
+
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.libantiban_0.1.0_iphoneos-arm.deb
+Size: 68220
+MD5sum: c3b1324ae064215ae26e84216bb656b5
+SHA1: 38865849ddb07c74e195b38ffb9fa6b6e7250dc0
+SHA256: f18ff51469427b598c2bb6f6d1793f920dde35d650b6b3b32d6fc379a4329a2b
+SHA512: 8651a802d165d9df3ca9da7ba40a95cc8497f7be84c868e161c3621173fd9c850be5e4146a8b15c0c9151ad6fd84a88d57b5509bbb24f32eb15562614a3a86af
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Libantiban
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.libantiban_0.2.0_iphoneos-arm.deb
+Size: 67688
+MD5sum: d871dd77f56aedcfc50cfbf3d28468a9
+SHA1: 4b9b5ee171ff607a5c26d423a24f6df573e4be76
+SHA256: 8445e4ee59f3663ecabf70c8771111f455184077669e3112c3c7d2cc6c696404
+SHA512: 9f94cc35438f40f264ee31b402203a388dac764b973f43af0ca1900bd5a2ee791f2f6401e478ffd630ab650c4b0cd0e8cf20c859cd8945b6136d4387b0a83993
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Libantiban
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate, com.hhnios.libantiban
+Filename: ./DEB/com.hhnios.lienquan_0.1.0_iphoneos-arm.deb
+Size: 80906
+MD5sum: 58d8afaf0b4208a826efd08428f53171
+SHA1: dcd207a45b5da65aa29cd1f20cd4abd1b4990c4d
+SHA256: ad4a75adf947df2dac68ee8dc3718be29c22f6987dbf1d22cd5eedc450d4869a
+SHA512: 9639b897155e6c52c42b3829d9eb8f6ee410a39b646798612ae999aca82748fead1838fe5744f3627d76711967abbd876782ea7b78197598082bd6d156b6872e
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate, com.hhnios.libantiban
+Filename: ./DEB/com.hhnios.lienquan_0.1.5_iphoneos-arm.deb
+Size: 81014
+MD5sum: dfef3fbddc9d1a761348b31c73535bf5
+SHA1: d7ab74babcf679aa7fc2e946e801c5cbf01b1d02
+SHA256: fb67b1467a8ed359c5e2def7cd0c080d29d4e6811cad17bfb0f1db04ff54df86
+SHA512: 7c85de26311196c9ebc0d7559523373f0808b7c8482df13d4e6c64526ee2f48bae357f9a4505a2bead5f266e19430f5a0b74fc80bca48e9e92689f3bdfebda5f
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate, com.hhnios.libantiban
+Filename: ./DEB/com.hhnios.lienquan_0.2.0_iphoneos-arm.deb
+Size: 81068
+MD5sum: e024899b9d7069f2750612a097fb0a41
+SHA1: 1d73b0432318e67c5c702e3bb6b0936e4643415b
+SHA256: 7126fbc8650e1911632c2fa302fb404b8f6fc8ec8726a9b61031ef8309e6409b
+SHA512: 56187d3e75cdf74c378af07315a9e76710e793df51b58c0bbf189879a558fa4ec2965695f26c1b890b031a7f1ff3c37ab495004904db94f5b5280fd0323e86f6
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquanaimelsu
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquanaimelsu_0.1.0_iphoneos-arm.deb
+Size: 28208
+MD5sum: 7986232d3bb535c11be60920028493c9
+SHA1: c6f3974ce10b968fe34426a3f348ac4267dd22c3
+SHA256: e008bf1f66bcc19ea2955d8c06cb3b14fa29c7f4beadd42eb7be195d931645e9
+SHA512: f367b6da9d0153d0a8b1f660a54c06399846d285a481c69a8861a65a95d610155a983db0778ab9875975edd416aed1e859acf844e794d227ea8a33f6f99ec1d7
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: MENU Aim Elsu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqelsu.html
+SileoDepiction: https://hhnios.github.io/info/lqelsu.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.limneos
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Tweaks
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.limneos_3.0_iphoneos-arm.deb
+Size: 5734
+MD5sum: b09e74332d0ef236eb07e888ae387662
+SHA1: 65727550b501a0a0aafbb36b26d75bdf401edf20
+SHA256: 25eb789863c0803c7a2b9445ac6981e0933a859e98ccd5ccb7357132cf061660
+SHA512: a2e829c5777f0e608972add46c22319da30c4a0f1357d5f0cd38e85f2f0a459fb7f56291684aea31d7a6928740a223342d0bf6f0094997d0257a013e5ef2e67d
+Description: Crack for Limneos tweaks
+Name: Limneos
+Author: Anna
+
+Package: com.hhnios.menuiggpu
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: PUBG
+Maintainer: HHNiOS
+Installed-Size: 508
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.menuiggpu_0.1.0_iphoneos-arm.deb
+Size: 153398
+MD5sum: e5f9b182448a086d61c323eacadecc95
+SHA1: 6942568671ed13a428fa36fd68f23fc507dbc28c
+SHA256: bd02ccad264183eda3952df90fe19efb0424ae1a919775c1c210d740d93d37ff
+SHA512: 56d5e6688f3f1fe445699afe6c5f88ebee48ef597353f7ab4130c3d85c3e910e7b00a75432c30209be686e373ba3008d5cd87b474fa3007436580f7effdbb33b
+Description: Menu 4 chức năng có thể dùng cho no jb và dùng được Full ver
+Name: Menu PUBG VNG IGG
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/menuiggpu.html
+SileoDepiction: https://hhnios.github.io/info/menuiggpu.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.sakura
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Tweaks
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.opa334.altlist
+Filename: ./DEB/com.hhnios.sakura_1.0.7_iphoneos-arm.deb
+Size: 799692
+MD5sum: 904eac9ce95a04b99ea466fba768351e
+SHA1: bfe98047d7b64e87590ef44177da8c2be30efabb
+SHA256: 0f57cd5ac18b323e74e0bac5eb04fb9c22b17b3eaca583fbdf0c5171d01f0374
+SHA512: cc70a8a344eacca1f7c2ec5cae199d7316419d87dfdb3947e739d6c7247ba625faf3a24ae56073f27980001f74a6a408dde761e3bbbdef40cfd62e4c115fe36f
+Description: Многозадачность для iOS 13 и iOS 14
+Name: Sakura VH
+Author: sugiuta <sugi.uta_1203@icloud.com>
+Icon: https://twickd.com/images/6dbac005a1efd4190719ac88dea4301c.jpeg
+Depiction: https://rejail.ru/depiction.php?file=sakura
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=sakura
+
+Package: com.hhnios.SemiRestore
+Architecture: iphoneos-arm
+Version: 1.1.7
+Section: Utilities
+Maintainer: HHNiOS
+Depends: mobilesubstrate, firmware(>=11.0)
+Filename: ./DEB/com.hhnios.semirestore_1.1.7_iphoneos-arm.deb
+Size: 54488
+MD5sum: f1af318ca3ff06cb91a0296d1828f045
+SHA1: d0e7b8de5c5468ab9cecf4e53cb2ac4ce28f6cdc
+SHA256: 57bb7e35c7ec99798eee298867e84abfbb2d2e86acec6ad73a438a21812fa3a9
+SHA512: 4047c5c706362578e4f6f48694b8cee7192c1eac81da3c95955a29e2736104c3c7de479948c14c7edb8df9582b1b9f49732062e9744ecbe7ee9cd9e7bcec7428
+Description: Công cụ gỡ jailbreak sạch 100% cho iOS 11 đến 14,khôi phục lại máy về như lúc xuất xưởng. lưu ý sao lưu lại dữ liệu trước khi chạy.Tweak dùng rất đơn giản,bạn chỉ cần nhấn vào Unjailbreak,nó sẽ chạy khi bạn nhấn vào Xác nhận.
+Name: SemiRestore 11-14
+Author: Pwn20wnd
+
+Package: com.hhnios.truecallerpremiumgold
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: App Pro
+Maintainer: HHNiOS
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.truecallerpremiumgold_1.0.0_iphoneos-arm.deb
+Size: 9848
+MD5sum: d9a264ebb2b7722c8a54a0b2e82eec92
+SHA1: 04bae93fb56d45fc3ca84ee6daf515a580b1f5e9
+SHA256: 984815509d4d9e6cb14aa4a6acc351dceb5e5bb7f3559e52b33d7ee7e4e7f6f9
+SHA512: 18a15e655aea47a6ee5c3bfdd1e09fd51ccc43c14420f50c6a6c58eb40c1754e94775661813589511ecc4467edd81e306b7f598e4969f3775bf4305262f85d28
+Description: Truecaller Premium Gold.
+Name: Truecaller Premium Gold
+Author: strejda603 <strejda603@centrum.cz>
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/net.kenhtao.truecallerpremiumgold
+Depiction: https://repo.kenhtao.net/view/7542
+
+Package: com.hhnios.tsssaver
+Architecture: iphoneos-arm
+Version: 2.0.3
+Section: Lưu ShSh IOS
+Maintainer: HHNiOS
+Depends: dimentio (>=1.0.3+git20201124.7ffffff) | com.hhnios.dimentio (>=2.0.0)
+Conflicts: co.dynastic.TSSsaver
+Filename: ./DEB/com.hhnios.tsssaver_2.0.3_iphoneos-arm.deb
+Size: 65752
+MD5sum: b6cb7a6bceb745fdec0c824a8a124dcb
+SHA1: ae5e714ffb8ec2f3d5a80c7c05509a950ff4ef6f
+SHA256: a8865836d10f560022af0a2070db142ee5129d3834eacc3da23da04306cf59f1
+SHA512: 905da4817c6483867af9c44ed700594144c0ba2f17df3dd61f5c194defe8c8566cc0abbd9d8a15919b3b5a8c78e10b81bc01e9c37b51a4cd97236ee1b4f155d8
+Description: Một ứng dụng tuyệt vời!
+Name: Save SHSH
+Author: 1Conan <tweaks@1conan.com>
+
+Package: com.lenglengyu.instabiopro
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: App Pro
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./DEB/com.lenglengyu.instabiopro_0.0.1_iphoneos-arm.deb
+Size: 68534
+MD5sum: 337d01d1145ee8398673b5bd3cf1c3b8
+SHA1: a241e3b3516c68ea3bb9fa969173d7899fcbaf87
+SHA256: 355116db4037a260cea30940ed50df4d1c414980865cad85b872174c9c9eeccb
+SHA512: fec11edf3b89ec75ceb030632e057ff0b35081e6bbbb2b5c86650c6b522bc1c48bb0fa546fc3598e0de4799f2bd1afe089110825e517d1012065eba689526403
+Description: 解锁会员权限。
+Name: InstaBio Pro
+Author: lenglengyu
+Depiction: https://apt.167025.cn/packageInfo/instabiopro.html
+Sileodepiction: https://apt.167025.cn/packageInfo/instabioprosileo
+
+Package: com.shadow.h5ggapp
+Architecture: iphoneos-arm
+Version: 5.9
+Section: System
+Maintainer: Shadow-
+Depends: mobilesubstrate
+Filename: ./DEB/com.shadow.h5ggapp_5.9_iphoneos-arm.deb
+Size: 2586724
+MD5sum: fe60efdf6c43a4c81f05bd23ff87e177
+SHA1: c4c83b31906b8f1c660851d5453ae40e81017f0e
+SHA256: 4f377ce803414c22e6744110ef5704e6f7fbdee22906ebc0125a43289c33417c
+SHA512: cff2223df04ffebb260856d6905a8094a72a73b13854acbb80a89eb60b83dd0bc0c76894dbe8a7a51a259586d6d1104c34e3fef2431b90b33207c32c2ce27857
+Description: H5GG跨进程App v5.9
+Name: H5GGApp
+Author: Shadow-
+
+Package: netskao.flexlist
+Architecture: iphoneos-arm
+Version: 1.3-8
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 3823
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./DEB/netskao.flexlist_1.3-8_iphoneos-arm.deb
+Size: 834896
+MD5sum: 710fd68d32a0f086cff5adabc79bf095
+SHA1: 025162fa3fad511f4f6a9d07e2c53757ac9e6c51
+SHA256: 5e02b83b89c61b9fc41caa527707588b3f81e5ddafd4c388088edd85c94284ba
+SHA512: d652887440dc78230d1a4e9cd54f3a1eb20daa2a81642525fe139b4ff894c0078e5eaac4132220f68b24fc13d2ebc2910aa2e51706bad25dcca75fce726cbade
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flexlistDp
+Description: FLEXList is a wrapper tool for FLEX Tool
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Name: FLEXList
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flexlistDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: netskao
+Icon: file:///Library/PreferenceBundles/FLEXListSettings.bundle/FLEXList@2x.png
+

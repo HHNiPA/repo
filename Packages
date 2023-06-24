@@ -257,6 +257,24 @@ Name: Fi Fai Mod Menu iGG
 
 Package: com.hhnios.freefireigg
 Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Fi fai
+Maintainer: HHNiOS
+Installed-Size: 1016
+Depends: firmware (>= 8.0)
+Filename: ./DEB/com.hhnios.freefireigg_0.2.0_iphoneos-arm.deb
+Size: 373564
+MD5sum: f880cfa621d3182560c3544a4ec07754
+SHA1: 01263298ae8ae1620547cd321a0271b9ad876eae
+SHA256: d1de73f6ec87d679caeeca4c7d9ddcb4d2238d746af32d1e371a1df660b4aa74
+SHA512: cb941df1030a9ba34d48b04029a4ff0fcd346947696690c14a65c973e91e84501d029bffdc152911046d90daa02b6c7c6c80e3f003f21921626acd7a6e923a5b
+Homepage: Fi fai
+Depiction: Menu có thể Inject vào ipa no JB
+Author: HHNiOS
+Name: Fi Fai Mod Menu iGG
+
+Package: com.hhnios.freefireigg
+Architecture: iphoneos-arm
 Version: 1
 Section: Utilities
 Maintainer: HHNiOS

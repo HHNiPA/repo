@@ -354,6 +354,27 @@ Depiction: https://hhnios.github.io/info/lqhack.html
 SileoDepiction: https://hhnios.github.io/info/lqhack.html
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.3.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.libantiban_0.3.0_iphoneos-arm.deb
+Size: 67644
+MD5sum: c367193cdc89393ed31a8033f5b29f01
+SHA1: bedf52d977522cc2f45836abdd44a8c7d460fb12
+SHA256: e24299d846f271ede43206c6bff66d9103afee11b59f877ab727c84c6ad80d70
+SHA512: bafbbdc15b968b967ce204efc95ef35be12075677894fbc15a17fc22d14911ec16e03e2ed87e9e4ea92680eaa5dc1f6b5daa9e60bf2d5847b8915830232a58ad
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Libantiban
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.lienquan
 Architecture: iphoneos-arm
 Version: 0.1.0

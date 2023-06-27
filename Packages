@@ -2,14 +2,14 @@ Package: com.crazymind90.itheosmakertweak
 Architecture: iphoneos-arm
 Version: 1.5
 Priority: optional
-Section: base
+Section: Theos
 Maintainer: @CrazyMind90
 Filename: ./DEB/com.crazymind90.itheosmakertweak_1.5_iphoneos-arm.deb
-Size: 1220066
-MD5sum: 6511e39de648dba6060458b2209dafab
-SHA1: 0cb05b15660a2fa8e7d7329d0c0ff8bab99070d8
-SHA256: 04b1673f7a812df7437ceb8b6d664c98e31a3b9f5705263435d222e01e3725fc
-SHA512: 6aa896dd3e079484886290dc24f36b1eb7fb97149ee8accb4847505c63caaacd581028873014509ac52a25829c696f8907002783cb68799cbd9464cde64f4baa
+Size: 1300082
+MD5sum: 4242f51123545fcb1efe055069f07f73
+SHA1: 8f1cb7f1cf6c3a8f6b87a55b22fa78ddd50ba9bd
+SHA256: d0ba7a40f98f4d95bf55f30f4f821947826e1336af694049235ed382ddde3fd8
+SHA512: d0cf8d4d8ef2750b4ded7176b498d3d70826b1578585debc79f648944a6d9dabaeb7f60f83cbbbe0048d254f2454980d9f1df3c7d9184ab682e8c442e5379b78
 Description: An app that helps you to create and manage Theos projects
 Name: iTheosMaker
 Author: @CrazyMind90
@@ -583,6 +583,32 @@ Name: InstaBio Pro
 Author: lenglengyu
 Depiction: https://apt.167025.cn/packageInfo/instabiopro.html
 Sileodepiction: https://apt.167025.cn/packageInfo/instabioprosileo
+
+Package: com.randy420.tai
+Architecture: iphoneos-arm
+Version: 5.2.2
+Section: Theos
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 476
+Depends: com.randy420.tools (>= 2.3), clang, curl, git, grep, perl, rsync, unzip, make, ldid, com.opa334.ccsupport, xar
+Conflicts: net.howett.theos
+Filename: ./DEB/com.randy420.tai_5.2.2_iphoneos-arm.deb
+Size: 121930
+MD5sum: c916eb2758ce4aafa84b669cb0ce504a
+SHA1: 084b5b68097c7b6787c521f92e1e5d32c4bdede9
+SHA256: 57f6dee555d230308cde8542f56dde00ebdbb70f2f144e8a463bb00747358b96
+SHA512: 1997b10cf4290ecd40eddaa23ee9b962b66db9e4b2a4eba15926b573026e40d05d92f46c0c11c567b2814bf7c2df9d86deb92ad5e1549f1af5916696dfcdea00
+Homepage: https://theemeraldisle.family
+Description: Install Theos from terminal using a simple terminal command (CONFIGURE FROM SETTINGS AND CONNECT TO WIFI) 
+ - tai
+ UNINSTALL THEOS 
+ - tai -u 
+ REINSTALL THEOS 
+ - tai -r
+Tag: role::hacker
+Name: Theos Auto Installer
+Depiction: https://Randy-420.GitHub.io/depic/tai.html
+Author: Randy420 <randy.skinner@hotmail.com>
 
 Package: com.shadow.h5ggapp
 Architecture: iphoneos-arm

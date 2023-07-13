@@ -438,6 +438,27 @@ Depiction: https://hhnios.github.io/info/lqhack.html
 SileoDepiction: https://hhnios.github.io/info/lqhack.html
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.3.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.3.0_iphoneos-arm.deb
+Size: 81080
+MD5sum: 4461c0a3434bcecdf5f649e18978fe64
+SHA1: 1f15ea0a2b7a8d61c99ec5d06a24808b838d67bc
+SHA256: 01a8ec81d8b4658a051cabb8072c783fedc611b9d40be8b3a5a41ff909415470
+SHA512: 3b439840faf49b20ff2b2f3509b70e05de1ed7432271d6275b210e0f9662c95a959db04a5188e9bda8e8e05c389cd4c0d8e524deb84467ee5a1d1aeeea2d11bf
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.lienquanaimelsu
 Architecture: iphoneos-arm
 Version: 0.1.0

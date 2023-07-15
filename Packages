@@ -586,6 +586,22 @@ Description: Một ứng dụng tuyệt vời!
 Name: Save SHSH
 Author: 1Conan <tweaks@1conan.com>
 
+Package: com.hhnios.x2speed
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fi fai
+Maintainer: Ninh
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.x2speed_1.0_iphoneos-arm.deb
+Size: 37072
+MD5sum: 974b0d04c2a52cbb16691052f24de0b7
+SHA1: 2ec8dd625da794008c540623d83a41383cf05bb7
+SHA256: 013e41eb710c744bf66cb8f43f180e2fa413d0e27531c6117a3fea318d50f71d
+SHA512: b35e7ae88328a30150dd6d8176b246de17b84acf49aa8677bad1d7120dafffefcde558e70b6bece5c028c2785236e2f64c97b6bb67ad81a603897a19533b8941
+Description:
+Name: Checkbox Menu X2Speed+Đạn Thẳng
+Author: Ninh
+
 Package: com.lenglengyu.instabiopro
 Architecture: iphoneos-arm
 Version: 0.0.1

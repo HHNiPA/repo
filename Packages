@@ -310,6 +310,44 @@ Name: Liên Quân Mod Menu
 Author: HHNiOS
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.1.0_iphoneos-arm64.deb
+Size: 10352
+MD5sum: 16265fee867606705cce7a7c7c6c4910
+SHA1: d14ac5bd4c0c7615b56d57900fd310931f0c3c6b
+SHA256: 0a8d61e49bbc18149d08544c574bf8da476b3f7e952cc29f17bd902312304025
+SHA512: d4d5e981b3c3256dc4937fb8c9d6976b84ca448e1791dec9bef33821e75ba12ee641cc04975ec3b06ac3009d4d527076cfccc4fb232e9fb0e0e2e467c9fd768b
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 292
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.1.5_iphoneos-arm.deb
+Size: 80434
+MD5sum: b35275caa83d1f88e7ec636328f55ae4
+SHA1: 4359d9d2516e23a24f8919fb99d0347318ef4e75
+SHA256: d62309987a69443d3a92cc8ec581fa3975a8fa667486efdbb3c0b77fad4b2c38
+SHA512: 06c217ba4ecd4e0ff1336f7676f9c4fca4c1fad0fdfb96f9d987891d9ab298587bec631bd86c937907251be4a5ce4953793a083b2d8dda74c238813baea63f20
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.limneos
 Architecture: iphoneos-arm
 Version: 3.0

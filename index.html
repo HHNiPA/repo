@@ -151,6 +151,24 @@
     </a>
     <br/>
     <br/>
+    <script>
+      let currentBackground = 1;
+  
+      function changeBackground() {
+        const background = document.querySelector('.background-image');
+        const content = document.querySelector('.content-container');
+  
+        currentBackground = (currentBackground === 1) ? 2 : 1;
+  
+        background.classList.remove('background-1', 'background-2');
+        background.classList.add(`background-${currentBackground}`);
+      }
+  
+      function toggleTab() {
+        const tabContent = document.querySelector('.tab-content');
+        tabContent.classList.toggle('open');
+      }
+    </script>
 </body>
 
 </html>

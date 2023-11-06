@@ -92,6 +92,23 @@ Author: Lailaazmi <Lailaazmi@my.com>
 Depiction: https://lailaazmi.github.io/depic/web/com.lailaazmi.camscanner.html
 Icon: https://lailaazmi.github.io/laila/com.lailaazmi.camscanner/icon.png
 
+Package: com.hhnios.camslider
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Liên Quân
+Maintainer: Ninh
+Installed-Size: 896
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.camslider_1.0_iphoneos-arm.deb
+Size: 282252
+MD5sum: 9ec5e8fd05baddc85bc3a3f89f914952
+SHA1: 5ab1ea8c9bf1d7ddd4a501053f7063097b69bb89
+SHA256: bcdb445c813f4a48cb00d40ec789f69286979ab1b79c7b45d9e27ed45b69fa33
+SHA512: 307bb02a458471def5cb756ea46c20a443891f2a670b29ac3ca4b50d01b74e13adf35af866adc4cde4178687987a2f7cca7ca530f68d570b31246363e29c1dbf
+Description:
+Name: Camslider AOV
+Author: Ninh
+
 Package: com.hhnios.capcut
 Architecture: iphoneos-arm
 Version: 7.5.2
@@ -238,6 +255,25 @@ Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.freefireigg
 Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Utilities
+Maintainer: HHNiOS
+Installed-Size: 1016
+Depends: firmware (>= 8.0)
+Filename: ./DEB/com.hhnios.freefireigg_0.1.5_iphoneos-arm.deb
+Size: 373392
+MD5sum: 0129715988326215045c7afde9a52ac3
+SHA1: e4099a22c68821ed041f7ced58ee8e270e8ce2a3
+SHA256: 810c783881fa14f49aabe1f65032e5fd19d8a0648927a790ee9345a1bb3d6a73
+SHA512: 156cfe850ca031ccaad5ee1d5504508e77ce49419900c24511d364b653c2e35b6858d572b7245b619cc2c1260368719bd09ca4ae4eb622c7778161b48886b4c6
+Homepage: Fi fai
+Description: Fi fai
+Depiction: Menu có thể Inject vào ipa no JB
+Author: HHNiOS
+Name: Fi Fai Mod Menu iGG
+
+Package: com.hhnios.freefireigg
+Architecture: iphoneos-arm
 Version: 0.2.0
 Section: Fi fai
 Maintainer: HHNiOS
@@ -256,6 +292,25 @@ Author: HHNiOS
 Depiction: https://hhnios.github.io/info/fifai.html
 SileoDepiction: https://hhnios.github.io/info/fifai.html
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.freefireigg
+Architecture: iphoneos-arm
+Version: 1
+Section: Utilities
+Maintainer: HHNiOS
+Installed-Size: 1016
+Depends: firmware (>= 8.0)
+Filename: ./DEB/com.hhnios.freefireigg_1_iphoneos-arm.deb
+Size: 475652
+MD5sum: 1e46528a9ffe32530b58444091cd8dbb
+SHA1: 8d97953b245b70d9efe052a403cf368ddc73e1b8
+SHA256: e304bed3747e4b1120afda6a6515a424a73cd0a85afade81124f36820b007e38
+SHA512: 5f74f0324b16efa4687aa8933e4f82d6619aaf2ee6d4012fa39eb3908f76bcad66a258b4e729df3f64aa9eea69e2b07ce7ad45329a36af5b98d7a40255b7cb69
+Homepage: Fi fai
+Description: Fi fai
+Depiction: Fi Fai Mod Menu iGG
+Author: HHNiOS
+Name: Fi Fai Mod Menu iGG
 
 Package: com.hhnios.gesturesi11vh
 Architecture: iphoneos-arm
@@ -291,6 +346,90 @@ Description: iMem Scan（以下简称 iMe）
  是一款内存基址调试工具.
 Name: iMemScan
 
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.libantiban_0.1.0_iphoneos-arm.deb
+Size: 68220
+MD5sum: c3b1324ae064215ae26e84216bb656b5
+SHA1: 38865849ddb07c74e195b38ffb9fa6b6e7250dc0
+SHA256: f18ff51469427b598c2bb6f6d1793f920dde35d650b6b3b32d6fc379a4329a2b
+SHA512: 8651a802d165d9df3ca9da7ba40a95cc8497f7be84c868e161c3621173fd9c850be5e4146a8b15c0c9151ad6fd84a88d57b5509bbb24f32eb15562614a3a86af
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Libantiban
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.libantiban_0.2.0_iphoneos-arm.deb
+Size: 67688
+MD5sum: d871dd77f56aedcfc50cfbf3d28468a9
+SHA1: 4b9b5ee171ff607a5c26d423a24f6df573e4be76
+SHA256: 8445e4ee59f3663ecabf70c8771111f455184077669e3112c3c7d2cc6c696404
+SHA512: 9f94cc35438f40f264ee31b402203a388dac764b973f43af0ca1900bd5a2ee791f2f6401e478ffd630ab650c4b0cd0e8cf20c859cd8945b6136d4387b0a83993
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Libantiban
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.2.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.libantiban_0.2.5_iphoneos-arm.deb
+Size: 67620
+MD5sum: b3bc52e91bdf398bdfda13296058d09d
+SHA1: f71a2824e139def10d9509bc98810b2d3b680904
+SHA256: a3330ba0f80c2841bc0b5497783a671330f62e06220bab9f3a9fb9fe06ad9165
+SHA512: 7b207b5309d83c0a1258154a325213830a01b8453928949ca4476572994a6f78523a9aac819b3848da3785fb009e5a688f8fc314d6af642a526f2036c6feb448
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Libantiban
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.3.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.libantiban_0.3.0_iphoneos-arm.deb
+Size: 67644
+MD5sum: c367193cdc89393ed31a8033f5b29f01
+SHA1: bedf52d977522cc2f45836abdd44a8c7d460fb12
+SHA256: e24299d846f271ede43206c6bff66d9103afee11b59f877ab727c84c6ad80d70
+SHA512: bafbbdc15b968b967ce204efc95ef35be12075677894fbc15a17fc22d14911ec16e03e2ed87e9e4ea92680eaa5dc1f6b5daa9e60bf2d5847b8915830232a58ad
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Libantiban
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.lienquan
 Architecture: iphoneos-arm
 Version: 0.1.0
@@ -304,6 +443,25 @@ MD5sum: e581bfab9d6b975f5af2c3ed384a22c1
 SHA1: 4fb8e21d2cd612df94a81a312d06581192554be1
 SHA256: 423f5a775c95498fb059cc9a10c3b0623a4d6895ed6968fe9f7096cd770a5a96
 SHA512: 922da0504cb846c3912b76c226d91bd17cfba31dc9989c04a21bde21b1950107b5c3c853e4b212c84110642e2ece4cc0ce8323cbb727cda726927144bd5b8a3a
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.1.0_iphoneos-arm64.deb
+Size: 10352
+MD5sum: 16265fee867606705cce7a7c7c6c4910
+SHA1: d14ac5bd4c0c7615b56d57900fd310931f0c3c6b
+SHA256: 0a8d61e49bbc18149d08544c574bf8da476b3f7e952cc29f17bd902312304025
+SHA512: d4d5e981b3c3256dc4937fb8c9d6976b84ca448e1791dec9bef33821e75ba12ee641cc04975ec3b06ac3009d4d527076cfccc4fb232e9fb0e0e2e467c9fd768b
 Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
@@ -346,6 +504,86 @@ Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
 Author: HHNiOS
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.3.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.3.0_iphoneos-arm.deb
+Size: 81080
+MD5sum: 4461c0a3434bcecdf5f649e18978fe64
+SHA1: 1f15ea0a2b7a8d61c99ec5d06a24808b838d67bc
+SHA256: 01a8ec81d8b4658a051cabb8072c783fedc611b9d40be8b3a5a41ff909415470
+SHA512: 3b439840faf49b20ff2b2f3509b70e05de1ed7432271d6275b210e0f9662c95a959db04a5188e9bda8e8e05c389cd4c0d8e524deb84467ee5a1d1aeeea2d11bf
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.4.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 608
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.4.0_iphoneos-arm.deb
+Size: 123172
+MD5sum: d71c6c095ec9105ae7b534bf4c0c2cd0
+SHA1: 0a569f828f0c25e733d6160dcc5a1ca2f367d792
+SHA256: b055cf79a5269757e64ed0a561aabba212c996bf29a5a7349c98e5e059fae12e
+SHA512: 9c7a59a0075dfcfcbda20b2b19229d4d20236d746e88f093e1fc391b849b38f9719f3e2b57fcf17294e9e467cd9d8678cf2fc1cf3fb88428cf2f4b3f06907000
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm64
+Version: 0.4.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 560
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.4.0_iphoneos-arm64.deb
+Size: 117152
+MD5sum: 9e35711c52eb05052efcdf4d09df8e54
+SHA1: 1b70821dc51baabdec05b8737faa9c82c4fc225d
+SHA256: 499d3b780152ddf35e1654d9d11a2dd8b6b487c87ff340237be51b902a2a1b48
+SHA512: 7face6743c2a10afdb17447b2050353bc8441e663e6822966651fcc294097424c34f08d4a7d788f894165120769f4157a73b3d5f267b84829219fe2bb10d8a4c
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquanaimelsu
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquanaimelsu_0.1.0_iphoneos-arm.deb
+Size: 28208
+MD5sum: 7986232d3bb535c11be60920028493c9
+SHA1: c6f3974ce10b968fe34426a3f348ac4267dd22c3
+SHA256: e008bf1f66bcc19ea2955d8c06cb3b14fa29c7f4beadd42eb7be195d931645e9
+SHA512: f367b6da9d0153d0a8b1f660a54c06399846d285a481c69a8861a65a95d610155a983db0778ab9875975edd416aed1e859acf844e794d227ea8a33f6f99ec1d7
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: MENU Aim Elsu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqelsu.html
+SileoDepiction: https://hhnios.github.io/info/lqelsu.html
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.lienquanrl

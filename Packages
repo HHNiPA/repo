@@ -109,6 +109,23 @@ Description:
 Name: Camslider AOV
 Author: Ninh
 
+Package: com.hhnios.camslider
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Liên Quân
+Maintainer: Ninh
+Installed-Size: 1920
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.camslider_1.5_iphoneos-arm.deb
+Size: 476932
+MD5sum: 190619f32a505b12cefa43b14c347989
+SHA1: e11a9fe26e1ff48eb40253daf8f84e6c2a5d1117
+SHA256: fad8a919c7336c679afef01b03ace46489fba61bfe551140ac9bc3b63287c4eb
+SHA512: 7b625d8daf6a7b72ce5fe67b4dcf93ecc2061a46766e8e62cb738eb9d812eb73e94f5e682623b9ca1b2877b51eba63f5381a28ab96147dc85bbf169824df0a7e
+Description:
+Name: Camslider AOV
+Author: Ninh
+
 Package: com.hhnios.capcut
 Architecture: iphoneos-arm
 Version: 7.5.2
@@ -378,6 +395,44 @@ MD5sum: 70b7bb66f8230d9897c957b30ad19113
 SHA1: 2373b6827f3169aae8100d1100f51715e78a0b38
 SHA256: a90138fc6cf910e739a35ec2e932184c33e599ae88349779a58def9063b65825
 SHA512: 791fdd3b9eacb46c758e72e08c314353f54f03bf894a5bdd8b5db8fe2a037d5ce6e6b6c904d316f4437c0101e217ab693a263ab19a2dd1e7a8920a84210ece57
+Homepage: https://hhnios.site
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu 1.52
+Author: HHNiOS
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 896
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.1.5_iphoneos-arm.deb
+Size: 173568
+MD5sum: 025db593c4eab41c2b9eadf1c7b15abd
+SHA1: 554aa263634645a322cb68bda563dba3dd71d01d
+SHA256: 3e1accc1c315d58b247f1e7e6d10b0fbee61a43bbd3c76568791849f006be7fd
+SHA512: 93b94b5159f63e528776390b84cf96428bf273a90c836039ff700494f702d9719677795468f352057d6daac45d2800ebe704837bf6b4fa2e3870ec162ee4e787
+Homepage: https://hhnios.site
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu 1.52
+Author: HHNiOS
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm64
+Version: 0.1.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 560
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.1.5_iphoneos-arm64.deb
+Size: 117096
+MD5sum: 9379605d1acbb0f9c4e9d921a7ff81a4
+SHA1: 464eb5b0ccd5bd84a6ec811cb5faea2b7bfceabd
+SHA256: a41ec2710a2c96ed19aad37ec14e9443e4b6651380fd221a846abbcf3dbf6973
+SHA512: c98be43c8b375a4387582a3be8c04b32c34a220e6dd185e8a8d442dbdbb26f0445fbec9c742284c9f5a456187c69e4eaf5989bb9165f596d11de1fcc25d5535e
 Homepage: https://hhnios.site
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu 1.52
